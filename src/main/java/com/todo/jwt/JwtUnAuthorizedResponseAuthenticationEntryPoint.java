@@ -1,4 +1,4 @@
-package com.todo.todo.jwt;
+package com.todo.jwt;
 
 import org.springframework.security.web.AuthenticationEntryPoint;
 import org.springframework.stereotype.Component;

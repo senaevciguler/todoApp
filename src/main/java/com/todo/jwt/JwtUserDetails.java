@@ -1,4 +1,4 @@
-package com.todo.todo.jwt;
+package com.todo.jwt;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import org.springframework.security.core.GrantedAuthority;

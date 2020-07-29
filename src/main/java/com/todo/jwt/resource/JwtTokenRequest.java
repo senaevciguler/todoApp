@@ -1,4 +1,4 @@
-package com.todo.todo.jwt.resource;
+package com.todo.jwt.resource;
 
 import java.io.Serializable;
 

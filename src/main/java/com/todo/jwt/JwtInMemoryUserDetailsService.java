@@ -1,4 +1,4 @@
-package com.todo.todo.jwt;
+package com.todo.jwt;
 
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

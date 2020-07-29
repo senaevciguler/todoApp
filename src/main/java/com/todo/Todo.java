@@ -1,4 +1,4 @@
-package com.todo.todo;
+package com.todo;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
